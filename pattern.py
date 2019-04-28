@@ -6,6 +6,7 @@
     * * * * * * *     
   * * * * * * * * *   
 * * * * * * * * * * *
+
 '''
 
 print("Enter the size of X-axis")
