@@ -1,4 +1,12 @@
-# Program for printing Pyramid
+''' Program for printing Pyramid
+
+          *           
+        * * *         
+      * * * * *       
+    * * * * * * *     
+  * * * * * * * * *   
+* * * * * * * * * * *
+'''
 
 print("Enter the size of X-axis")
 x = int(input())
